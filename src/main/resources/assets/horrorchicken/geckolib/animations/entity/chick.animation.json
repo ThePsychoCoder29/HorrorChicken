@@ -1,0 +1,50 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"chickWalk": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"left_leg": {
+					"rotation": {
+						"0.0": {
+							"vector": [55, 0, 0]
+						},
+						"0.25": {
+							"vector": [-35, 0, 0]
+						},
+						"0.5": {
+							"vector": [55, 0, 0]
+						},
+						"0.75": {
+							"vector": [-35, 0, 0]
+						},
+						"1.0": {
+							"vector": [55, 0, 0]
+						}
+					}
+				},
+				"right_leg": {
+					"rotation": {
+						"0.0": {
+							"vector": [-42.5, 0, 0]
+						},
+						"0.25": {
+							"vector": [55, 0, 0]
+						},
+						"0.5": {
+							"vector": [-42.5, 0, 0]
+						},
+						"0.75": {
+							"vector": [55, 0, 0]
+						},
+						"1.0": {
+							"vector": [-42.5, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
